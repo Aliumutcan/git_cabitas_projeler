@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificationCertificate", "VerificationCertificate\VerificationCertificate.csproj", "{5BF00450-708A-4143-95CA-7774DE879DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenPgpLib", "D:\çöp\OpenPgpLib-master\OpenPgpLib\OpenPgpLib.csproj", "{6EB5D7CD-F468-43BB-8892-119B49097FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "D:\çöp\OpenPgpLib-master\UnitTest\UnitTest.csproj", "{7C3A8F96-2090-43C1-ABFD-27074F981FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF00450-708A-4143-95CA-7774DE879DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF00450-708A-4143-95CA-7774DE879DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF00450-708A-4143-95CA-7774DE879DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF00450-708A-4143-95CA-7774DE879DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB5D7CD-F468-43BB-8892-119B49097FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB5D7CD-F468-43BB-8892-119B49097FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB5D7CD-F468-43BB-8892-119B49097FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB5D7CD-F468-43BB-8892-119B49097FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3A8F96-2090-43C1-ABFD-27074F981FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3A8F96-2090-43C1-ABFD-27074F981FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3A8F96-2090-43C1-ABFD-27074F981FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3A8F96-2090-43C1-ABFD-27074F981FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38503176-7DB8-4AA8-B36C-159EDFDDEBBC}
+	EndGlobalSection
+EndGlobal

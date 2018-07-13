@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <title>Analyzing Twitter Data</title>
+ 
+ 
+    <link href="https://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+ 
+    <link href="https://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+ 
+ 
+</head>
+ 
+<body>
+ 
+    <div class="container">
+        <div class="header">
+            <nav>
+                <ul class="nav nav-pills pull-right">
+                    <li role="presentation" class="active"><a href="/">Home</a>
+                    </li>
+                    <li role="presentation" disabled><a href="/extract_data"></a>
+                    </li>
+                    <li role="presentation"><a href="/displaygraph">Display Line Graph</a>
+                    </li>
+					<li role="presentation"><a href="/displaypie">Display Pie Chart</a>
+                    </li>
+                </ul>
+            </nav>
+            <h3 class="text-muted">Analyzing Twitter Data</h3>
+        </div>
+ 
+        <div class="jumbotron">
+            <h1>Twitter Data Analyzing App</h1>
+            <p class="lead"></p>
+            <!-- <p><a class="btn btn-lg btn-success" href="showSignUp" role="button">Sign up today</a> -->
+            </p>
+        </div>
+ 
+        <div class="row marketing">
+            <div class="col-lg-12">
+                <h4>First Step : Extract Data</h4>
+                <p>Using Tweepy twitter APIs the data is extracted.</p>
+ 
+                <h4>Second Step : Data is inserted into MongoDB</h4>
+                <p>The extracted data is inserted into MongoDB database for fast searching.</p>
+ 
+                <h4>Third Step : Plotting Data</h4>
+                <p>Extracted Data is plotted using Pandas library.</p>
+            </div>
+ 
+                       
+        </div>
+ 
+        <footer class="footer">
+            <p>&copy; 2017</p>
+        </footer>
+ 
+    </div>
+</body>
+</html>

@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container">
+    <div class="row" style="margin-top:150px;">
+        <div class="col-md-2"></div>
+        <div class="col-md-4 giris">
+            <div class="row">
+                <form method="post" enctype="multipart/form-data" class="form-group">
+                    <h1>Giriş</h1>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <td>Adı soyadı</td>
+                                <td></td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><input type="text" class="form-control" name="name_and_surname" /> </td>
+                                <td><input type="submit" class="btn btn-success" value="Giriş" /></td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </form>
+            </div>
+
+            <div class="row">
+                @{
+                    if (ViewBag.pin_kod != null)
+                    {
+                        <h1>
+                            PİN: @ViewBag.pin_kod
+                        </h1>
+
+                    }
+                }
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<style>
+    .giris {
+        background-color: rgb(150, 214, 242);
+        height: 200px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px 5px 5px 5px;
+    }
+</style>
+

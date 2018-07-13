@@ -1,0 +1,11 @@
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\bin\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.deps.json
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\bin\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.runtimeconfig.json
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\bin\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.runtimeconfig.dev.json
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\bin\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.dll
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\bin\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.pdb
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\obj\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.csprojAssemblyReference.cache
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\obj\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.csproj.CoreCompileInputs.cache
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\obj\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.AssemblyInfoInputs.cache
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\obj\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.AssemblyInfo.cs
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\obj\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.dll
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\obj\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEB.pdb

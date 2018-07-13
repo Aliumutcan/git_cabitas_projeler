@@ -1,0 +1,2 @@
+00000000-0000-0000-0000-000000000000,Hüseyin,C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\wwwroot/public_key/acikanahtar1.asc
+00000000-0000-0000-0000-000000000000,asdasd,C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\wwwroot/public_key/00000000-0000-0000-0000-000000000000.asc

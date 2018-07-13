@@ -1,0 +1,8 @@
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEBAPİ\bin\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEBAPİ.deps.json
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEBAPİ\bin\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEBAPİ.runtimeconfig.json
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEBAPİ\bin\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEBAPİ.runtimeconfig.dev.json
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEBAPİ\bin\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEBAPİ.dll
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEBAPİ\obj\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEBAPİ.csprojAssemblyReference.cache
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEBAPİ\obj\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEBAPİ.csproj.CoreCompileInputs.cache
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEBAPİ\obj\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEBAPİ.AssemblyInfoInputs.cache
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEBAPİ\obj\Debug\netcoreapp2.0\ENCRYPTİON_FİLES_WEBAPİ.AssemblyInfo.cs

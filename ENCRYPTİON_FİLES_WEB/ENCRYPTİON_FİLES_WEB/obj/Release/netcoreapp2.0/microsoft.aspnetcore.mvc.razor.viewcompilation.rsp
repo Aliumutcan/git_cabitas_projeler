@@ -1,0 +1,16 @@
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ENCRYPTION_FILES_WEB
+--content-root=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\Home\About.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\Home\Bring_Encryption_File.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\Home\Contact.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\Home\Create_Regisration.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\Home\Enter.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\Home\Index.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\Home\Login.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\Shared\Error.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\Shared\_Layout.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\_ViewImports.cshtml
+--file=C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\ENCRYPTİON_FİLES_WEB\Views\_ViewStart.cshtml

@@ -1,0 +1,14 @@
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\bin\Debug\AUTHENTİCATİON.exe.config
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\bin\Debug\AUTHENTİCATİON.exe
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\bin\Debug\AUTHENTİCATİON.pdb
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\bin\Debug\HtmlAgilityPack.dll
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\bin\Debug\HtmlAgilityPack.xml
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\obj\Debug\AUTHENTİCATİON.csprojAssemblyReference.cache
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\obj\Debug\AUTHENTİCATİON.Form1.resources
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\obj\Debug\AUTHENTİCATİON.Properties.Resources.resources
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\obj\Debug\AUTHENTİCATİON.csproj.GenerateResource.cache
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\obj\Debug\AUTHENTİCATİON.csproj.CoreCompileInputs.cache
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\obj\Debug\AUTHENTİCATİON.csproj.CopyComplete
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\obj\Debug\AUTHENTİCATİON.exe
+C:\Users\alium\source\repos\ENCRYPTİON_FİLES_WEB\AUTHENTİCATİON\obj\Debug\AUTHENTİCATİON.pdb

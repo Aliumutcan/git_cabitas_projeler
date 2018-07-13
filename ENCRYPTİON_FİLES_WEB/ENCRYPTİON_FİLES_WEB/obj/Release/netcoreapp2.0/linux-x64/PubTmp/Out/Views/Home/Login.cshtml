@@ -1,0 +1,201 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+<!--
+<div class="container">
+    <div class="row" style="margin-top:150px;">
+        <div class="col-md-2"></div>
+        @{
+            if (ViewData["session"] == null)
+            {
+                <div class="col-md-4 giris">
+                    <div class="row">
+                        <form method="post" action="login" class="form-group">
+                            <h1>Giriş</h1>
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <td>Adı soyadı</td>
+                                        <td></td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><input type="text" class="form-control" name="name_and_surname" /> </td>
+                                        <td><input type="submit" class="btn btn-success" value="Giriş" /></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                        </form>
+                    </div>
+
+                    <div class="row">
+                        @{
+                            if (ViewBag.pin_kod != null)
+                            {
+                                <h1>
+                                    PİN: @ViewBag.pin_kod
+                                </h1>
+
+                            }
+                        }
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="col-md-4 giris">
+                    <h1>Giriş yaptınız</h1>
+                    <h3>Hoşgeldiniz @ViewData["session"]</h3>
+                </div>
+            }
+        }
+
+
+    </div>
+
+</div>
+
+<style>
+    .giris {
+        background-color: rgb(150, 214, 242);
+        height: 200px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px 5px 5px 5px;
+        padding:-5px;
+    }
+</style>
+-->
+
+<!------ Include the above in your HEAD tag ---------->
+<div class="container">
+
+    <div class="row" id="pwd-container">
+        <div class="col-md-4"></div>
+
+        @{
+            if (ViewData["session"] == null)
+            {
+                <div class="col-md-4">
+                    <section class="login-form">
+                        <form method="post" action="login" role="login">
+                            <img src="http://i.imgur.com/RcmcLv4.png" class="img-responsive" alt="" />
+                            <input type="text" name="name_and_surname" placeholder="text" required class="form-control input-lg" value="joestudent@gmail.com" />
+                            <div class="pwstrength_viewport_progress">PİN: @ViewBag.pin_kod</div>
+
+
+                            <button type="submit" name="go" class="btn btn-lg btn-primary btn-block">Sign in</button>
+                            <div>
+                                <a href="create">Create account</a> or <a href="#">reset password</a>
+                            </div>
+
+                        </form>
+
+
+                    </section>
+                </div>
+            }
+            else
+            {
+                <div class="col-md-4">
+                    <section class="login-form">
+                        <form method="get" action="exist" role="exist">
+                            <img src="http://i.imgur.com/RcmcLv4.png" class="img-responsive" alt="" />
+                            <label class="form-control input-lg">Hoşgeldiniz: @ViewData["session"]</label>
+                            <div class="pwstrength_viewport_progress"></div>
+
+
+                            <button type="submit" name="go" class="btn btn-lg btn-danger btn-block">Sign out</button>
+
+
+                        </form>
+
+
+                    </section>
+                </div>
+            }
+        }
+
+        <div class="col-md-4"></div>
+
+    </div>
+
+   
+
+</div>
+<style>
+
+.progress-bar {
+    color: #333;
+}
+
+/*
+Reference:
+http://www.bootstrapzen.com/item/135/simple-login-form-logo/
+*/
+
+* {
+    -webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	outline: none;
+}
+
+    .form-control {
+	  position: relative;
+	  font-size: 16px;
+	  height: auto;
+	  padding: 10px;
+
+
+		&:focus {
+		  z-index: 2;
+		}
+	}
+
+body {
+	background: url(http://i.imgur.com/GHr12sH.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.login-form {
+	margin-top: 60px;
+}
+
+form[role=login] {
+	color: #5d5d5d;
+	background: #f2f2f2;
+	padding: 26px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+	form[role=login] img {
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 35px;
+	}
+	form[role=login] input,
+	form[role=login] button {
+		font-size: 18px;
+		margin: 16px 0;
+	}
+	form[role=login] > div {
+		text-align: center;
+	}
+
+.form-links {
+	text-align: center;
+	margin-top: 1em;
+	margin-bottom: 50px;
+}
+	.form-links a {
+		color: #fff;
+	}
+</style>
